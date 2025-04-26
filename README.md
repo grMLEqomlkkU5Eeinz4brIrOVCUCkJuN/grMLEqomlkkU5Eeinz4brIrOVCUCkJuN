@@ -8,7 +8,7 @@ I intend to skill myself beyond what the classroom teaches me.
 ## 🚀 About Me
 
 - 💻 I’m currently working with: Java
-- 🌱 Planning to learn: C, ASMs (NASM family), Golang, Rust, Zig and Pythong 
+- 🌱 Planning to learn: C, ASMs (NASM family), Golang, Rust, Zig and Python. 
 - 🛠️ Favorite tools: Neovim, VSC and Jetbrain tools for Java. Portainer and Coolify for docker-related deployments.
 
 ## 🧰 Tech Stack
