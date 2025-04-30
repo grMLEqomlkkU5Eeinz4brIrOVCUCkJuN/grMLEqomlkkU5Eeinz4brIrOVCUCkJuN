@@ -4,6 +4,7 @@ I'm a passionate software developer who loves building things with code. I enjoy
 
 I have worked on projects involving the linux kernel, low level projects, system administration and basic full stack web apps.
 I intend to skill myself beyond what the classroom teaches me.
+"grML" is pronounced "Ger-Merl".
 
 ## 🚀 About Me
 
