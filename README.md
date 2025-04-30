@@ -7,9 +7,9 @@ I intend to skill myself beyond what the classroom teaches me.
 
 ## 🚀 About Me
 
-- 💻 I’m currently working with: Java
-- 🌱 Planning to learn: C, ASMs (NASM family), Golang, Rust, Zig and Python. 
-- 🛠️ Favorite tools: Neovim, VSC and Jetbrain tools for Java. Portainer and Coolify for docker-related deployments.
+- 💻 I’m currently working with: Java and Nodejs (ew)
+- 🌱 Planning to learn (relearn): C, ASMs (NASM family), Golang, Rust, Zig and Python. 
+- 🛠️ Favorite tools: Neovim, VSC and Eclipse tools for Java. Portainer and Coolify for docker-related deployments.
 
 ## 🧰 Tech Stack
 
@@ -19,6 +19,7 @@ I intend to skill myself beyond what the classroom teaches me.
 ## 📈 Story
 
 I used to do low level stuff and I kind of just forgot it all. ;-;
+Have a love-hate relationship with nodejs.
 
 ---
 
