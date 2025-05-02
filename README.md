@@ -10,6 +10,7 @@ I'm a passionate software developer with experience in both front-end and back-e
 - 💻 Currently working with: Java and Node.js
 - 🌱 Actively learning/relearning: C, Assembly (NASM family), Go, Rust, Zig, and Python
 - 🛠️ Favorite tools: Neovim, VSCode, Eclipse (for Java), Portainer, and Coolify (for Docker-related deployments)
+- 📰 I occasionally write [gists](https://gist.github.com/grMLEqomlkkU5Eeinz4brIrOVCUCkJuN).
 
 ## 🧰 Tech Stack
 
