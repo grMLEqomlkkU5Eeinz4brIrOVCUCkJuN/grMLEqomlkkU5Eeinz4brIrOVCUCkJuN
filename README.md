@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm grML!
 
-I'm a passionate software developer with experience in both front-end and back-end development. I specialize in low-level programming, system administration, and full-stack web applications. My goal is to continually grow my skills beyond traditional classroom learning and stay updated with the latest technologies.
+I'm a passionate software developer with experience in both front-end and back-end development. I specialize in low-level programming (used to work on it, I am really rusty right now), system administration, and full-stack web applications. My goal is to continually grow my skills beyond traditional classroom learning and stay updated with the latest technologies.
 
 **Pronunciation:** "grML" is pronounced "Ger-Merl".
 
